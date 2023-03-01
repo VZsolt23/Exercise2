@@ -1,0 +1,1 @@
+Ez a README.md fájl tartalma.
